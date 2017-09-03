@@ -41,7 +41,7 @@ Be very careful to ensure there are no spaces in vector parameters.
 
 7.  Offset of the axis of rotation's origin relative to the object center. 
 
-The configuration fills the values in the main script and set the 
+The configuration fills the values in the main script and sets the 
 `configured` variable to `TRUE`. 
 
 ```
